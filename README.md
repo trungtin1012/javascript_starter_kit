@@ -12,3 +12,5 @@ Building a Javascript Development Environment
 9. Share Work-in-progress via localtunnel
 10. Choose Automation: Grunt, Gulp, npm Scripts
 11. Set up Automation with npm scripts
+12. Choose a Transpiler: Babel, TypeScript, Elm
+13. Set up Babel
