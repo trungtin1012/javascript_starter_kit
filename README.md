@@ -8,3 +8,7 @@ Building a Javascript Development Environment
 5. Set up Node Security Platform
 6. Choose Development Webservers: http-server, live-server, express, budo, webpack dev server, browsersync
 7. Set up express
+8. Sharing Work-in-progress, choose service: localtunnel, ngrok, surge, now
+9. Share Work-in-progress via localtunnel
+10. Choose Automation: Grunt, Gulp, npm Scripts
+11. Set up Automation with npm scripts
