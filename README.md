@@ -14,3 +14,8 @@ Building a Javascript Development Environment
 11. Set up Automation with npm scripts
 12. Choose a Transpiler: Babel, TypeScript, Elm
 13. Set up Babel
+14. Select a Module Format: IIFE, AMD, CJS, UMD, ES6 Modules
+15. Select a Bundler: RequireJS, Browserify, Webpack, Rollup, JSPM
+16. Set up Webpack
+17. Configure Webpack with Express
+18. Create App Entry Point 
