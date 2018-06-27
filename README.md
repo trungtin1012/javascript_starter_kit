@@ -19,3 +19,4 @@ Building a Javascript Development Environment
 16. Set up Webpack
 17. Configure Webpack with Express
 18. Create App Entry Point 
+19. Handling CSS with Webpack
