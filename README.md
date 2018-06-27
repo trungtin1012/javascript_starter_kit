@@ -20,3 +20,6 @@ Building a Javascript Development Environment
 17. Configure Webpack with Express
 18. Create App Entry Point 
 19. Handling CSS with Webpack
+20. Debugging via Sourcemaps
+21. Pick a Linter: JSLint, JSHint, ESLint
+22. Set up ESLint
