@@ -23,3 +23,7 @@ Building a Javascript Development Environment
 20. Debugging via Sourcemaps
 21. Pick a Linter: JSLint, JSHint, ESLint
 22. Set up ESLint
+23. Choose Testing Framework: Mocha, Jasmine, Tape, QUnit, AVA, Jest
+24. Choose Assertion Library: Chai, Should.js, expect
+25. Choose Helper Library: JSDOM, Cheerio
+27. Set up Testing
